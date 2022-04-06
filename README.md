@@ -2,9 +2,12 @@
 #### :slightly_smiling_face: And this is my attempt to create some kind of bio :upside_down_face:
 I am a student of the Nizhny Novgorod State Technical University and my specialty is "Programming and system analysis". I'm studying programming for about 3 years, trying out different technologies. Most of the time I worked with :snake: Python and :floppy_disk: C. Now I'm looking towards practical application of my knowledge and writing little own pet-projects  :computer:
 
-Skills: Python | C
+Stack: 
+  -Python
+  -Django\Flask
+  -BD : MongoDB, PostgreSQL
 
-- 🌱 I’m currently learning with the help of EPAM Courses on Java and Python 
+- 🌱 I’m currently learning with the help of FreeCodeCamp and EPAM Courses on Java and Python 
 - ⚡ Fun fact: The word "arctic" in Greek stand for "bear". So, "antarctic" means "bear". Deal with it 
 
 
